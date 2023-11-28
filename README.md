@@ -12,3 +12,9 @@ HTML, CSS, PHP, SQL, Figma
 ## Possible improvements:
 - Mobile responsiveness optimization
 - Enhanced project structure
+
+## Screenshots:
+![Login screen](Screenshots/login.png?raw=true "Login")
+![Register screen](Screenshots/register.png?raw=true "Register")
+![Search screen](Screenshots/search.png?raw=true "Search")
+![Reservations screen](Screenshots/reservations.png?raw=true "Reservations")
