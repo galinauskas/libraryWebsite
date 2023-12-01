@@ -2,7 +2,7 @@
     session_start();
     require_once 'connect.php';
 
-    session_unset(); // clear user
+    unset($_SESSION['user']); // log user out
 ?>
 
 <!DOCTYPE html>
