@@ -1,5 +1,5 @@
-# webdev2023
-This PHP-based web development project is a basic library website featuring functions like login, registration, book search, and book reservation/cancellation.
+# Library Website
+This is an interactive PHP-based web development project that serves as a fundamental library website. The primary functionalities of this web application include user authentication with login and registration capabilities, an efficient book search feature, and a system for book reservation and cancellation.
 
 ## Technologies used:
 HTML, CSS, PHP, SQL, Figma
